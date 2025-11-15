@@ -1,4 +1,4 @@
-tekst="header"
+tekst = "header" 
 lengte = len(tekst) + 4
 print()
 print(lengte * "*")
